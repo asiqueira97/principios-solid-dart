@@ -1,4 +1,5 @@
-# Princípios do SOLID
+<img src="https://www.ufsm.br/app/uploads/sites/791/2021/02/solid1.jpeg" />
+
 Breve explicação sobre cada princípio do SOLID na programação orientada a objetos. Lembrando que esses princípios podem ser aplicados em qualquer linguagem orientada à objetos, nesse caso estou utlizando o Dart.
 
 # Single Responsibility Principle (Princípio da Responsabilidade Única)
