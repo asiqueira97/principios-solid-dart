@@ -207,7 +207,7 @@ class AplicacaoLsp {
 }
 ```
 
-#Interface Segregation Principle (Princípio de Segregação de Interface)
+# Interface Segregation Principle (Princípio de Segregação de Interface)
 
 Nenhuma classe/cliente deve ser forçada a depender de métodos que não usa. No exemplo abaixo é possível ver uma interface chamada Developer que possui 3 métodos. No contexto de desenvolvimento de software, um desenvolvedor júnior está aprendendo como codificar ou melhorar sua capacidade de codificar e não como projetar uma solução de negócios corporativos. No entanto, a interface do desenvolvedor exigirá que a classe 'DesenvolvedorJunior' implemente todos esses métodos (programar, arquitetarAplicacao, revisarCodigo). Para evitar uma implementação, talvez os desenvolvedores lançem uma exceção como uma solução para este caso.
 
